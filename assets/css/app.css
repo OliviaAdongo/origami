@@ -11459,7 +11459,7 @@ button.close {
 }
 .cbp-l-filters-button .cbp-filter-item {
   background-color: #ffffff;
-  border: 1px solid #ececec;
+  border: 1px solid #black;
   color: #888888;
   cursor: pointer;
   font: 400 12px/32px "Open Sans", sans-serif;
@@ -11506,7 +11506,7 @@ button.close {
 }
 .cbp-l-filters-buttonCenter .cbp-filter-item {
   background-color: #ffffff;
-  border: 1px solid #ececec;
+  border: 1px solid #black;
   color: #888888;
   cursor: pointer;
   font: 400 12px/32px "Roboto", sans-serif;
@@ -15672,7 +15672,7 @@ body {
   font-weight: 300;
   font-style: normal;
   color: #fff;
-  background: #f2f3f4;
+  background: #ffffff;
 }
 h1,
 h2,
@@ -15741,7 +15741,7 @@ blockquote.blockquote-default {
   border-left: 4px solid #eb984e;
 }
 .content.bg-black blockquote.blockquote-default footer {
-  color: #ececec;
+  color: #black;
 }
 blockquote.blockquote-default footer {
   font-size: 100%;
@@ -15774,7 +15774,7 @@ ul.list-default li {
 }
 .content.bg-black ol.list-default li,
 .content.bg-black ul.list-default li {
-  color: #ececec;
+  color: #black;
 }
 ol.list-default > li {
   padding-left: 6px;
@@ -15788,7 +15788,7 @@ ol.list-default > li {
   z-index: 99999;
   top: 0;
   left: 0;
-  background: #f2f3f4;
+  background: #ffffff;
 }
 #page-loader.hide-this {
   -webkit-transition: all 0.6s cubic-bezier(0.19, 1, 0.22, 1) 0.8s;
@@ -16068,7 +16068,7 @@ ol.list-default > li {
 }
 .content.bg-black {
   color: #fff;
-  background: #f2f3f4;
+  background: #ffffff;
 }
 .content.bg-white {
   color: #000;
@@ -16473,7 +16473,7 @@ ul.tab-navigation-default li {
   cursor: pointer;
   letter-spacing: 0.02em;
   color: #fff;
-  background: #f2f3f4;
+  background: #ffffff;
 }
 .bg-black ul.tab-navigation-default li {
   color: #000;
@@ -16508,7 +16508,7 @@ ul.tab-navigation-default a {
 }
 .accordion-item-default .panel-heading {
   padding: 0;
-  background: #f2f3f4;
+  background: #ffffff;
 }
 .bg-black .accordion-item-default .panel-heading {
   padding: 0;
@@ -16659,7 +16659,7 @@ a.button-default.edged:before {
   border-radius: 0;
 }
 a.button-default.inverted:before {
-  background: #f2f3f4 !important;
+  background: #ffffff !important;
 }
 .bg-black a.button-default.inverted:before {
   background: #fff !important;
@@ -16678,7 +16678,7 @@ a.button-default:after {
   -webkit-transform: translateX(-110%);
   transform: translateX(-110%);
   border-radius: 100px;
-  background: #f2f3f4;
+  background: #ffffff;
 }
 .bg-black a.button-default:after {
   background: #fff;
@@ -16780,7 +16780,7 @@ a.button-default span {
   content: "";
   -webkit-transition: all 0.5s cubic-bezier(0.19, 1, 0.22, 1);
   transition: all 0.5s cubic-bezier(0.19, 1, 0.22, 1);
-  background: #f2f3f4;
+  background: #ffffff;
 }
 .popup-container:hover:after {
   bottom: 0;
@@ -16800,7 +16800,7 @@ a.button-default span {
 }
 .popup-container p {
   margin: 0;
-  color: #ececec !important;
+  color: #black !important;
 }
 .icon-section {
   clear: both;
@@ -18082,7 +18082,7 @@ section .content.bg-black h6 {
   color: #fff;
 }
 section .content.bg-black p {
-  color: #ececec;
+  color: #black;
 }
 section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item {
   border-color: rgba(255, 255, 255, 0);
@@ -18200,7 +18200,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after {
   background: #121212;
 }
 .block-about-1.bg-black p {
-  color: #ececec;
+  color: #black;
 }
 .block-about-1.bg-black h3 {
   color: #fff;
@@ -18416,7 +18416,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after {
   color: #fff;
 }
 .block-work-1.bg-white .work-grid a .cbp-caption-activeWrap p {
-  color: #ececec;
+  color: #black;
 }
 .block-work-1.bg-white .load-more {
   color: #fff !important;
@@ -18432,13 +18432,13 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after {
   border-color: #fff;
 }
 .block-work-1.bg-white .load-more:after {
-  background: #f2f3f4;
+  background: #ffffff;
 }
 .block-work-1.bg-black .work-grid a .cbp-caption-activeWrap {
   background-color: #b09980;
 }
 .block-work-1.bg-black .work-grid a .cbp-caption-activeWrap p {
-  color: #ececec;
+  color: #black;
 }
 .block-work-1.bg-black .load-more {
   color: #fff !important;
@@ -18625,7 +18625,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after {
   background: #b09980;
 }
 .block-team-1.bg-white .cbp-item .cbp-caption-activeWrap p {
-  color: #ececec;
+  color: #black;
 }
 .block-team-1.bg-white .our-skills .progress {
   background-color: #f7f9fa;
@@ -18648,7 +18648,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after {
   color: #fff;
 }
 .block-team-1.bg-black .cbp-item .cbp-caption-activeWrap p {
-  color: #ececec;
+  color: #black;
 }
 .block-team-1.bg-black .our-skills .progress {
   background-color: #f2f2f2;
@@ -18780,7 +18780,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after {
   .container-article-info
   .container-title
   p {
-  color: #ececec;
+  color: #black;
 }
 .block-news-1.bg-black
   .container-news
@@ -18804,7 +18804,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after {
   .container-article-info
   .container-title
   p {
-  color: #ececec;
+  color: #black;
 }
 .block-news-1.bg-black
   .container-news
@@ -19480,7 +19480,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after {
   background: #eb984e;
 }
 .block-contact-1.bg-white .tab-content .map-wrapper .container-info {
-  background: #f2f3f4;
+  background: #ffffff;
 }
 .block-contact-1.bg-white .tab-content .map-wrapper .container-info ul li h5 {
   color: #eb984e;
@@ -19634,7 +19634,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after {
   color: #fff;
 }
 .block-contact-1.bg-black .tab-content .map-wrapper .container-info {
-  background: #f2f3f4;
+  background: #ffffff;
 }
 .block-contact-1.bg-black .tab-content .map-wrapper .container-info ul li h5 {
   color: #eb984e;
@@ -19906,7 +19906,7 @@ section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item::after {
   transition: all 0.6s cubic-bezier(0.19, 1, 0.22, 1);
   -webkit-transform: translatex(100%);
   transform: translateX(100%);
-  background: #f2f3f4;
+  background: #ffffff;
 }
 .popup-showcase-style-1 .container-info.active {
   -webkit-transform: translatex(0);
