@@ -22,6 +22,14 @@ section,
 summary {
   display: block;
 }
+.hde {
+  display: none;
+}
+    
+.myDIV:hover + .hde {
+  display: block;
+  color: white;
+}
 audio,
 canvas,
 progress,
