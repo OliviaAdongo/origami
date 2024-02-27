@@ -26,8 +26,6 @@ summary {
   display: none;
 }
 .culture-list{
-display: flex;
-flex-wrap: wrap;
 padding-left: 200px;
 } 
 
