@@ -19,7 +19,7 @@ main,
 menu,
 nav,
 section,
-summary {
+summary{
   display: block;
 }
 .hde {
@@ -10704,6 +10704,8 @@ button.close {
 .cbp-item {
   display: inline-block;
   margin: 0 10px 20px 0;
+  
+ 
 }
 .cbp {
   position: relative;
@@ -10906,6 +10908,9 @@ button.close {
 .cbp-caption-defaultWrap,
 .cbp-caption-activeWrap {
   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
 }
 .cbp-caption-activeWrap {
   background-color: #282727;
@@ -10919,6 +10924,7 @@ button.close {
 }
 .cbp-caption-active .cbp-caption-defaultWrap {
   top: 0;
+  
 }
 .cbp-caption-active .cbp-caption-activeWrap {
   width: 100%;
