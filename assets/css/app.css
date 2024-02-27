@@ -18052,12 +18052,17 @@ section .pagination-custom-1 .cbp-nav-pagination-item {
   opacity: 0.5;
   border: 2px solid;
   border-radius: 50%;
+  font-size:19px;
 }
+
+
 section .pagination-custom-1 .cbp-nav-pagination-item::after {
   position: absolute;
-  width: 8px;
-  height: 8px;
-  content: "";
+  width: 28px;
+  height: 28px;
+  color: #eb984f;
+  content: "\2194";
+  
   cursor: pointer;
   -webkit-transition: background 0.5s;
   transition: background 0.5s;
@@ -18102,7 +18107,7 @@ section .content.bg-black h6 {
   color: #fff;
 }
 section .content.bg-black p {
-  color: #black;
+  color: black;
 }
 section .content.bg-black .pagination-custom-1 .cbp-nav-pagination-item {
   border-color: rgba(255, 255, 255, 0);
