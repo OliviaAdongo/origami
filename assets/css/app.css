@@ -29,6 +29,13 @@ summary {
 padding-left: 200px;
 } 
 
+@media (max-width: 768px){
+  .culture-list{
+    padding-left: 90px;
+    
+    } 
+}
+
 .myDIV:hover + .hde {
   display: block;
   color: white;
