@@ -31,9 +31,16 @@ padding-left: 200px;
 
 @media (max-width: 768px){
   .culture-list{
-    padding-left: 90px;
+    padding-left: 0px;
     
     } 
+    #nas-pristine{
+      margin-left: 45px;
+      
+    }
+    #passanger{
+      margin-left: 20px;
+    }
 }
 
 .myDIV:hover + .hde {
